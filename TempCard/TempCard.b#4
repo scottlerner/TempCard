@@ -515,6 +515,71 @@ at 30/07/2012 11:22:31</description>
 </package>
 </packages>
 </library>
+<library name="Atmel_By_element14_Batch_1">
+<description>Developed by element14 :&lt;br&gt;
+element14 CAD Library consolidation.ulp
+at 27/07/2012 14:02:49</description>
+<packages>
+<package name="DIP254P762X533-8">
+<pad name="1" x="-7.62" y="7.62" drill="1.1176" shape="square"/>
+<pad name="2" x="-7.62" y="5.08" drill="1.1176"/>
+<pad name="3" x="-7.62" y="2.54" drill="1.1176"/>
+<pad name="4" x="-7.62" y="0" drill="1.1176"/>
+<pad name="5" x="0" y="0" drill="1.1176"/>
+<pad name="6" x="0" y="2.54" drill="1.1176"/>
+<pad name="7" x="0" y="5.08" drill="1.1176"/>
+<pad name="8" x="0" y="7.62" drill="1.1176"/>
+<wire x1="-7.2898" y1="-1.27" x2="-0.3302" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-0.3302" y1="8.89" x2="-3.5052" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="-3.5052" y1="8.89" x2="-4.1148" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="-4.1148" y1="8.89" x2="-6.477" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="-3.5052" y1="8.89" x2="-4.1148" y2="8.89" width="0.1524" layer="21" curve="-180"/>
+<text x="-8.2042" y="8.7376" size="1.27" layer="21" ratio="6" rot="SR0">*</text>
+<wire x1="-7.366" y1="7.0612" x2="-7.366" y2="8.1788" width="0" layer="51"/>
+<wire x1="-7.366" y1="8.1788" x2="-8.1788" y2="8.1788" width="0" layer="51"/>
+<wire x1="-8.1788" y1="8.1788" x2="-8.1788" y2="7.0612" width="0" layer="51"/>
+<wire x1="-8.1788" y1="7.0612" x2="-7.366" y2="7.0612" width="0" layer="51"/>
+<wire x1="-7.366" y1="4.5212" x2="-7.366" y2="5.6388" width="0" layer="51"/>
+<wire x1="-7.366" y1="5.6388" x2="-8.1788" y2="5.6388" width="0" layer="51"/>
+<wire x1="-8.1788" y1="5.6388" x2="-8.1788" y2="4.5212" width="0" layer="51"/>
+<wire x1="-8.1788" y1="4.5212" x2="-7.366" y2="4.5212" width="0" layer="51"/>
+<wire x1="-7.366" y1="1.9812" x2="-7.366" y2="3.0988" width="0" layer="51"/>
+<wire x1="-7.366" y1="3.0988" x2="-8.1788" y2="3.0988" width="0" layer="51"/>
+<wire x1="-8.1788" y1="3.0988" x2="-8.1788" y2="1.9812" width="0" layer="51"/>
+<wire x1="-8.1788" y1="1.9812" x2="-7.366" y2="1.9812" width="0" layer="51"/>
+<wire x1="-7.366" y1="-0.5588" x2="-7.366" y2="0.5588" width="0" layer="51"/>
+<wire x1="-7.366" y1="0.5588" x2="-8.1788" y2="0.5588" width="0" layer="51"/>
+<wire x1="-8.1788" y1="0.5588" x2="-8.1788" y2="-0.5588" width="0" layer="51"/>
+<wire x1="-8.1788" y1="-0.5588" x2="-7.366" y2="-0.5588" width="0" layer="51"/>
+<wire x1="-0.254" y1="0.5588" x2="-0.254" y2="-0.5588" width="0" layer="51"/>
+<wire x1="-0.254" y1="-0.5588" x2="0.5588" y2="-0.5588" width="0" layer="51"/>
+<wire x1="0.5588" y1="-0.5588" x2="0.5588" y2="0.5588" width="0" layer="51"/>
+<wire x1="0.5588" y1="0.5588" x2="-0.254" y2="0.5588" width="0" layer="51"/>
+<wire x1="-0.254" y1="3.0988" x2="-0.254" y2="1.9812" width="0" layer="51"/>
+<wire x1="-0.254" y1="1.9812" x2="0.5588" y2="1.9812" width="0" layer="51"/>
+<wire x1="0.5588" y1="1.9812" x2="0.5588" y2="3.0988" width="0" layer="51"/>
+<wire x1="0.5588" y1="3.0988" x2="-0.254" y2="3.0988" width="0" layer="51"/>
+<wire x1="-0.254" y1="5.6388" x2="-0.254" y2="4.5212" width="0" layer="51"/>
+<wire x1="-0.254" y1="4.5212" x2="0.5588" y2="4.5212" width="0" layer="51"/>
+<wire x1="0.5588" y1="4.5212" x2="0.5588" y2="5.6388" width="0" layer="51"/>
+<wire x1="0.5588" y1="5.6388" x2="-0.254" y2="5.6388" width="0" layer="51"/>
+<wire x1="-0.254" y1="8.1788" x2="-0.254" y2="7.0612" width="0" layer="51"/>
+<wire x1="-0.254" y1="7.0612" x2="0.5588" y2="7.0612" width="0" layer="51"/>
+<wire x1="0.5588" y1="7.0612" x2="0.5588" y2="8.1788" width="0" layer="51"/>
+<wire x1="0.5588" y1="8.1788" x2="-0.254" y2="8.1788" width="0" layer="51"/>
+<wire x1="-7.366" y1="-1.27" x2="-0.254" y2="-1.27" width="0" layer="51"/>
+<wire x1="-0.254" y1="-1.27" x2="-0.254" y2="8.89" width="0" layer="51"/>
+<wire x1="-0.254" y1="8.89" x2="-3.5052" y2="8.89" width="0" layer="51"/>
+<wire x1="-3.5052" y1="8.89" x2="-4.1148" y2="8.89" width="0" layer="51"/>
+<wire x1="-4.1148" y1="8.89" x2="-7.366" y2="8.89" width="0" layer="51"/>
+<wire x1="-7.366" y1="8.89" x2="-7.366" y2="-1.27" width="0" layer="51"/>
+<wire x1="-3.5052" y1="8.89" x2="-4.1148" y2="8.89" width="0" layer="51" curve="-180"/>
+<text x="-8.2042" y="8.7376" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
+<text x="-8.5598" y="-4.1656" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
+<text x="-7.2644" y="10.795" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -751,6 +816,13 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Microchip Technology" x="-86.36" y="-27.94" size="1.778" layer="27" ratio="15" display="off"/>
 <attribute name="OC_FARNELL" value="9760571" x="-86.36" y="-27.94" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
+<element name="U3" library="Atmel_By_element14_Batch_1" package="DIP254P762X533-8" value="ATTINY45-20PU" x="-97.79" y="-31.75">
+<attribute name="PACKAGE" value="PDIP-8" x="-97.79" y="-31.75" size="1.778" layer="27" ratio="15" display="off"/>
+<attribute name="OC_NEWARK" value="23M5072" x="-97.79" y="-31.75" size="1.778" layer="27" ratio="15" display="off"/>
+<attribute name="MPN" value="ATTINY45-20PU" x="-97.79" y="-31.75" size="1.778" layer="27" ratio="15" display="off"/>
+<attribute name="SUPPLIER" value="Atmel" x="-97.79" y="-31.75" size="1.778" layer="27" ratio="15" display="off"/>
+<attribute name="OC_FARNELL" value="1288352" x="-97.79" y="-31.75" size="1.778" layer="27" ratio="15" display="off"/>
+</element>
 </elements>
 <signals>
 <signal name="GND">
@@ -906,6 +978,9 @@ design rules under a new name.</description>
 </signal>
 <signal name="VDD">
 <contactref element="U2" pad="1"/>
+</signal>
+<signal name="VCC">
+<contactref element="U3" pad="8"/>
 </signal>
 </signals>
 </board>
